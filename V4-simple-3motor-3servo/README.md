@@ -1,3 +1,5 @@
-2 wheel drivetrain
-1 extra motor
-3 servos
+2 wheel drivetrain (A,B)
+
+1 extra motor (C)
+
+3 servos (1,2,3)
