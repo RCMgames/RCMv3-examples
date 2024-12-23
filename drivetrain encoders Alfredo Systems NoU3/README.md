@@ -1,0 +1,1 @@
+this example runs a robot with two yahboom tt motors with encoders connected to an Alfredo Systems NoU3. Left motor is connected to motor and encoder port 3. Right motor is connected to motor and encoder port 2.
