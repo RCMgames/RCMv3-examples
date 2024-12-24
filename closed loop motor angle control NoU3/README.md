@@ -1,0 +1,1 @@
+This example demonstrates closed loop position control of a yahboom tt motor with encoder wired to motor port 3 of an Alfredo Systems NoU3.
